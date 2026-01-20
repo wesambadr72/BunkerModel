@@ -1,0 +1,3 @@
+Training session started at 2026-01-20
+Model: YOLOv8
+Status: Initialized

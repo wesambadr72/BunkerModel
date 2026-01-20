@@ -1,0 +1,15 @@
+path: C:/Users/Admin/Documents/trae_projects/BunkerModel/data/processed
+train: train
+val: val
+test: test
+
+nc: 8
+names:
+  0: PET
+  1: Aluminum
+  2: Cardboard
+  3: Paper
+  4: Glass
+  5: Metal
+  6: Organic
+  7: Non-Recyclable

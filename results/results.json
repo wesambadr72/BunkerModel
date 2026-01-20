@@ -1,0 +1,32 @@
+{
+    "model_info": {
+        "name": "YOLOv8n-CLS Waste Classifier",
+        "version": "1.5",
+        "classes": 8,
+        "input_size": [224, 224]
+    },
+    "training_metrics": {
+        "best_accuracy": 0.9234,
+        "epochs_completed": 45,
+        "optimizer": "AdamW"
+    },
+    "performance_benchmarks": {
+        "pytorch": {
+            "mean_latency_ms": 7.81,
+            "fps": 128.0
+        },
+        "onnx": {
+            "mean_latency_ms": 2.66,
+            "fps": 376.5
+        },
+        "jetson_nano_estimated": {
+            "mean_latency_ms": 20.0,
+            "fps": 50.0
+        }
+    },
+    "deployment_ready": {
+        "onnx_exported": true,
+        "tensorrt_script_ready": true,
+        "jetson_inference_script_ready": true
+    }
+}

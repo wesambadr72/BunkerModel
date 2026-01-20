@@ -1,0 +1,15 @@
+# Requirements for NVIDIA Jetson Nano (JetPack 4.6+)
+# Note: TensorRT and OpenCV are usually pre-installed via JetPack.
+
+# Core ML and Vision
+ultralytics
+numpy
+opencv-python
+
+# TensorRT Support
+pycuda
+
+# Tools
+onnxruntime-gpu
+matplotlib
+psutil
