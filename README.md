@@ -63,10 +63,10 @@ python3 scripts/inference_jetson.py
 ## 🛠️ الفئات المدعومة (8 Classes)
 `PET, Aluminum, Cardboard, Paper, Glass, Metal, Organic, Non-Recyclable`
 
----
-*تم تطوير المشروع وتدريبه باستخدام وحدة معالجة الرسوميات RTX 3050.*
-
 ## فريق العمل 🫡
 - wesam Badr Alluhaybi
 - Ayman Mohamed Alshamrani
 - Faisal Ali Ageeli
+---
+*تم تطوير المشروع وتدريبه باستخدام وحدة معالجة الرسوميات RTX 3050.*
+
